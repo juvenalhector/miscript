@@ -13,6 +13,9 @@ namespace MiGitHub
         public prueba()
         {
             Console.WriteLine("Ejemplo de una prueba");
+
+            
+            Console.WriteLine("Ejemplo 2");
         }
 
     }
