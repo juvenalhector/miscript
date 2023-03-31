@@ -12,7 +12,7 @@ namespace MiGitHub
         
         public prueba()
         {
-            Console.WriteLine("Ejemplo");
+            Console.WriteLine("Ejemplo 1");
         }
 
     }
