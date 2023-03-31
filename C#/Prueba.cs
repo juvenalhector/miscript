@@ -9,7 +9,6 @@ namespace MiGitHub
 {
     public class Prueba
     {
-        
         public prueba()
         {
             Console.WriteLine("Ejemplo");
